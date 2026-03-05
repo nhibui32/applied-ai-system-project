@@ -10,6 +10,11 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 ---
 
+1. The game accepts numbers that outside 1-100(negative number and numbers greater than 100)
+2. The hints are not correct(they show go lower while it suppose to be higher and verse vice)
+3. If we re-enter a number, they still count as one more attempt
+4. 
+
 ## 2. How did you use AI as a teammate?
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
