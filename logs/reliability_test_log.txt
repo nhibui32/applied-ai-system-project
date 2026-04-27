@@ -1,0 +1,14 @@
+2026-04-26 23:55:40,675 - ERROR - Test 1 crashed: Refactor this function from app.py into logic_utils.py
+2026-04-26 23:55:40,675 - ERROR - Test 2 crashed: Refactor this function from app.py into logic_utils.py
+2026-04-26 23:55:40,675 - ERROR - Test 3 crashed: Refactor this function from app.py into logic_utils.py
+2026-04-26 23:55:40,675 - ERROR - Test 4 crashed: Refactor this function from app.py into logic_utils.py
+2026-04-26 23:55:40,675 - ERROR - Test 5 crashed: Refactor this function from app.py into logic_utils.py
+2026-04-26 23:55:40,675 - ERROR - Test 6 crashed: Refactor this function from app.py into logic_utils.py
+2026-04-26 23:55:40,675 - INFO - Final reliability score: 0.00
+2026-04-26 23:56:32,807 - INFO - Test 1 passed: {'guess': 5, 'secret': 5, 'expected': 'Correct!'}
+2026-04-26 23:56:32,807 - INFO - Test 2 passed: {'guess': 3, 'secret': 5, 'expected': 'Too low!'}
+2026-04-26 23:56:32,807 - INFO - Test 3 passed: {'guess': 8, 'secret': 5, 'expected': 'Too high!'}
+2026-04-26 23:56:32,807 - INFO - Test 4 passed: {'guess': 1, 'secret': 10, 'expected': 'Too low!'}
+2026-04-26 23:56:32,807 - INFO - Test 5 passed: {'guess': 10, 'secret': 1, 'expected': 'Too high!'}
+2026-04-26 23:56:32,807 - INFO - Test 6 passed: {'guess': 7, 'secret': 7, 'expected': 'Correct!'}
+2026-04-26 23:56:32,807 - INFO - Final reliability score: 1.00
