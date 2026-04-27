@@ -36,3 +36,23 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+
+## Functionality
+
+This project is an AI-assisted Game Glitch Investigator system. The system helps identify, explain, and verify bugs in a number guessing game. Instead of only fixing the game manually, the project includes a reliability testing system that checks whether the game logic gives consistent and correct responses.
+
+The system supports:
+- Debugging incorrect game behavior
+- Separating game logic into reusable functions
+- Running automated reliability tests
+- Using guardrails to make sure guesses and results are handled safely
+- Logging or tracking testing behavior for easier debugging
+
+## AI Feature: Reliability and Testing System
+
+This project includes a reliability testing system that evaluates whether the game responds correctly to different inputs. The tests check cases where the guess is correct, too low, or too high. This makes the system more reliable because it can verify that the logic still works after changes are made.
+
+To run the reliability tests:
+
+```bash
+python reliability_tests.py
